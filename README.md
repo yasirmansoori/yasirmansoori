@@ -62,9 +62,7 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,6 +79,22 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)
+
+### Learning
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0089D6)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&labelColor=black&logo=chakra-ui&logoColor=319795)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)
 
 <br/>
 
