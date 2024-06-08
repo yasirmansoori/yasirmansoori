@@ -19,7 +19,7 @@
   <samp>
     <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a>
     <br>
-    「 I am a Full Stack Software Engineer from <b>India</b> 」
+    「 Currently SDE Intern<b> @BlendNet.ai </b> 」
     <br>
     <br>
   </samp>
@@ -48,17 +48,15 @@
 ❤️ &emsp; Passionate about crafting code and exploring new features<br/><br/>
 📧 &emsp; Feel free to connect with me at yasir.mansoori000@gmail.com<br/><br/>
 💬 &emsp; Curious about something? Feel free to ask me anything [here](https://github.com/yasirmansoori/yasirmansoori/issues)<br/><br/>
-🎮 &emsp; A dedicated lifelong gamer 
-
-</p>
-
-<br/>
+🎮 &emsp; A dedicated lifelong gamer <br/><br/>
+🌍 &emsp; Visit my portfolio at [My Space](https://yasirmansoori.tech)<br/><br/>
+ </p>
 <br/>
 <br/>
 
 ## Use To Code
-
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -95,11 +93,11 @@
 
 <br/>
 
-## Top Repositories -
+<!-- ## Top Repositories -
 [![My Space](https://github-readme-stats.vercel.app/api/pin/?username=yasirmansoori&repo=Cinemania-Hub&show=description&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yasirmansoori/My-Space)
 [![Gmail Automation Script](https://github-readme-stats.vercel.app/api/pin/?username=yasirmansoori&repo=Gmail-Automation-Script&show=description&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yasirmansoori/gmail-automation-script)
 [![E Commerce API](https://github-readme-stats.vercel.app/api/pin/?username=yasirmansoori&repo=E-Commerce-API&show=description&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yasirmansoori/e-commerce-api)
-[![Google Docs Clone](https://github-readme-stats.vercel.app/api/pin/?username=yasirmansoori&repo=NovaNote&show=description&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yasirmansoori/NovaNote)
+[![Google Docs Clone](https://github-readme-stats.vercel.app/api/pin/?username=yasirmansoori&repo=NovaNote&show=description&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yasirmansoori/NovaNote) -->
 
 
 <p align="left">
@@ -124,7 +122,7 @@
 
 <a> 
     <a href="https://github.com/yasirmansoori"><img alt="yasirmansoori Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yasirmansoori&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/yasirmansoori"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yasirmansoori&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/yasirmansoori"><img alt="Yasir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yasirmansoori&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
