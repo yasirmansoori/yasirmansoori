@@ -2,7 +2,7 @@
   <a href="https://github.com/yasirmansoori" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Software%20Developer%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!-- Profile visitor counter --> 
+<!-- Profile visitor counter will update--> 
 <!-- <a href="https://komarev.com/ghpvc/?username=yasirmansoori">
   <img align="right" src="https://komarev.com/ghpvc/?username=yasirmansoori&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> -->
