@@ -19,11 +19,16 @@
   <samp>
     <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a>
     <br>
-    「 Currently SDE Intern<b> @BlendNet.ai </b> 」
-    <br>
+    「 Currently SDE <b> @BlendNet.ai </b> 」
     <br>
   </samp>
 </p>
+
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
+</div>
+<br>
+
 
 <p align="center">
  <a href="https://yasirmansoori.tech/" target="blank">
@@ -53,6 +58,7 @@
  </p>
 <br/>
 <br/>
+
 
 ## Use To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
