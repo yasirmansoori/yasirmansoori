@@ -82,8 +82,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)
-
-### Learning
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
