@@ -31,7 +31,7 @@
 
 
 <p align="center">
- <a href="https://yasirmansoori.tech/" target="blank">
+ <a href="https://yasirmansoori.in/" target="blank">
   <img src="https://img.shields.io/badge/Website-a09898?style=for-the-badge&logo=github&logoColor=black" alt="yasir" />
  </a>
  <a href="https://www.linkedin.com/in/yasir-mansoori/" target="_blank">
