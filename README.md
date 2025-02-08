@@ -54,7 +54,7 @@
 📧 &emsp; Feel free to connect with me at yasir.mansoori000@gmail.com<br/><br/>
 💬 &emsp; Curious about something? Feel free to ask me anything [here](https://github.com/yasirmansoori/yasirmansoori/issues)<br/><br/>
 🎮 &emsp; A dedicated lifelong gamer <br/><br/>
-🌍 &emsp; Visit my portfolio at [My Space](https://yasirmansoori.tech)<br/><br/>
+🌍 &emsp; Visit my portfolio at [My Space](https://yasirmansoori.in)<br/><br/>
  </p>
 <br/>
 <br/>
