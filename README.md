@@ -23,7 +23,6 @@
     <br>
   </samp>
 </p>
-
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
 </div>
@@ -47,9 +46,9 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://res.cloudinary.com/dnjcut34n/image/upload/v1742276571/portfolio/codergif_ignvgx.gif" alt="Coding gif" />
   
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+✌️ &emsp; Full Stack Developer by Day, Bug Fixer by Night <br/><br/>
 ❤️ &emsp; Passionate about crafting code and exploring new features<br/><br/>
 📧 &emsp; Feel free to connect with me at yasir.mansoori000@gmail.com<br/><br/>
 💬 &emsp; Curious about something? Feel free to ask me anything [here](https://github.com/yasirmansoori/yasirmansoori/issues)<br/><br/>
@@ -57,52 +56,51 @@
 🌍 &emsp; Visit my portfolio at [My Space](https://yasirmansoori.in)<br/><br/>
  </p>
 <br/>
+
+<hr/>
+<p align="center">
+  <a href="https://github.com/yasirmansoori">
+    <img src="https://github-profile-trophy.vercel.app/?username=yasirmansoori&theme=dracula" alt="My GitHub Contribution"/>
+  </a>
+</p>
+<hr/>
 <br/>
 
-
-## Use To Code
+## Tech stack
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-f49a2d?style=for-the-badge&logo=MySQL&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CPP](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-366c9e?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)
+
+
+## Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=0078d7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+
+
+## Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0089D6)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&labelColor=black&logo=chakra-ui&logoColor=319795)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)
 
 <br/>
-
-<p align="left">
-  <a href="https://github.com/yasirmansoori?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
 <br/>
 
 <p align="center">
@@ -117,11 +115,11 @@
   </a>
 </p>
 
-<a> 
+<!-- <a> 
     <a href="https://github.com/yasirmansoori"><img alt="yasirmansoori Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yasirmansoori&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/yasirmansoori"><img alt="Yasir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yasirmansoori&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a> -->
 
 
 ![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirmansoori&custom_title=Yasir%20Mansoori%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
