@@ -19,7 +19,7 @@
   <samp>
     <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a>
     <br>
-    「 Currently SDE <b> @BlendNet.ai </b> 」
+    「 Currently Full Stack Engineer <b> @Poiro </b> 」
     <br>
   </samp>
 </p>
@@ -36,9 +36,6 @@
  <a href="https://www.linkedin.com/in/yasir-mansoori/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yasir"/>
  </a>
- <a href="https://instagram.com/mansoori_yasir786" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="yasir" />
- </a> 
 </p>
 <br />
 
@@ -48,7 +45,7 @@
 <p>
  <img align="right" width="350" src="https://res.cloudinary.com/dnjcut34n/image/upload/v1742276571/portfolio/codergif_ignvgx.gif" alt="Coding gif" />
   
-✌️ &emsp; Full Stack Developer by Day, Bug Fixer by Night <br/><br/>
+✌️ &emsp; Full Stack Engineer by Day, Bug Fixer by Night <br/><br/>
 ❤️ &emsp; Passionate about crafting code and exploring new features<br/><br/>
 📧 &emsp; Feel free to connect with me at yasir.mansoori000@gmail.com<br/><br/>
 💬 &emsp; Curious about something? Feel free to ask me anything [here](https://github.com/yasirmansoori/yasirmansoori/issues)<br/><br/>
@@ -67,24 +64,18 @@
 <br/>
 
 ## Tech stack
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Python](https://img.shields.io/badge/Python-366c9e?style=for-the-badge&logo=Python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-f49a2d?style=for-the-badge&logo=MySQL&logoColor=white)
-![Python](https://img.shields.io/badge/Python-366c9e?style=for-the-badge&logo=Python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVRYhe2WvUoDQRSGv7M0kEJpKQkKIoKCiogoiiKCiogoiiKCiogoiiKCgqIhCQ)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)
-
 
 ## Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
@@ -95,7 +86,6 @@
 
 
 ## Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0089D6)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
