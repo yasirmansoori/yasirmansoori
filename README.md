@@ -17,14 +17,16 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a>
+    <!-- <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a> -->
     <br>
     「 Currently Full Stack Engineer <b> @Poiro </b> 」
     <br>
   </samp>
 </p>
-<div align="center"> 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
+<div align="center">
+<a href="https://openloft.io" target="_blank">
+<img src="https://cdn.openloft.io/brand/openloft-brand-logo.png" width="100px" height="100px"/>
+</a>
 </div>
 <br>
 
@@ -54,13 +56,19 @@
  </p>
 <br/>
 
-<hr/>
+<hr />
+
 <p align="center">
-  <a href="https://github.com/yasirmansoori">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasirmansoori&theme=dracula" alt="My GitHub Contribution"/>
+  <a href="https://wakatime.com/@yasir_mansoori">
+    <img
+      src="https://wakatime.com/share/@yasir_mansoori/2148ae4f-1eb4-4e7c-93a2-763dcbadba7e.svg"
+      alt="Yasir Mansoori WakaTime Coding Activity"
+      width="700"
+    />
   </a>
 </p>
-<hr/>
+
+<hr />
 <br/>
 
 ## Tech stack
