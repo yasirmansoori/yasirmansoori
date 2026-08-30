@@ -19,7 +19,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a> -->
     <br>
-    「 Currently Full Stack Engineer <b> @Poiro </b> 」
+    「 Founder <b> @Openloft </b> 」
     <br>
   </samp>
 </p>
