@@ -19,7 +19,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=yasir+mansoori" target="_blank">「 Google Me 」</a> -->
     <br>
-    「 Founder <b> @Openloft </b> 」
+    「 Experiments <b> @Openloft </b> 」
     <br>
   </samp>
 </p>
